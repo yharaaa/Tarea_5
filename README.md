@@ -1,7 +1,7 @@
-# [Tarea 5: Introducción a la Optimización](URL)
+# [Tarea 5: Introducción a la Optimización](https://yharaaa.github.io/Tarea_5/)
 
 
-Este repositorio contiene .
+Este repositorio contiene tres ejercicios basado en la Optimización.
 
 ## 1. **Parte 1: Maximización/Minimización**
 
@@ -22,11 +22,12 @@ En esta parte se realiza una comparación multicriterio para evaluar diferentes 
 - POSIBILIDAD DE EMPLEO tiene un peso global de 0.117.
 ⚠️ no se logró identificar el país optimo 😞
 
+
 ## 3. **Parte 3 Benchmarking: Análisis de Ejecución Presupuestal y Eficiencia en Municipalidades de San Martín, Perú**
 
 Este proyecto analiza la ejecución presupuestal de las municipalidades del Departamento de San Martín, Perú, durante el año 2022. Utiliza indicadores clave como el [Presupuesto Inicial Asignado (PIA), el Presupuesto Modificado (PIM)](https://apps5.mineco.gob.pe/transparencia/Navegador/default.aspx?y=2022&ap=ActProy), [el avance de ejecución del presupuesto, ingresos y gastos](http://webinei.inei.gob.pe/anda_inei/index.php/catalog/779), y calcula la eficiencia de las municipalidades utilizando el modelo DEA (Análisis Envolvente de Datos).
 
-## Descripción de los Datos
+### Descripción de los Datos
 
 El archivo `data_muni.csv` contiene los siguientes campos clave:
 
@@ -39,7 +40,7 @@ El archivo `data_muni.csv` contiene los siguientes campos clave:
 
 ***Área de trabajo:*** Este análisis se centra exclusivamente en las municipalidades del Departamento de San Martín, Perú.
 
-## Resultados
+### Resultados
 
 - **Benchmarking y Análisis de Frontera**
 
