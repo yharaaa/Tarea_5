@@ -20,6 +20,7 @@ En esta parte se realiza una comparación multicriterio para evaluar diferentes 
 - COSTO DE VIDA tiene un peso global de 0.614.
 - DIFICULTAD DEL IDIOMA tiene un peso global de 0.268.
 - POSIBILIDAD DE EMPLEO tiene un peso global de 0.117.
+
 ⚠️ no se logró identificar el país optimo 😞
 
 
